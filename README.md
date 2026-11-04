@@ -1,2 +1,2 @@
 # HuntressCTF2026Writeups
-Python automation pipeline for Huntress CTF 2026 (91st of 2,304, top 4%). A daily Windows scheduled task pulls challenges from the game API, solves them across forensics, malware/script analysis, binary, web, and mobile categories, and generates a write-up for each solve.
+This repo has my automation pipeline and challenge write-ups from Huntress CTF 2026, a month-long competition where I placed 91st out of 2,304 players. A Windows scheduled task ran the pipeline every morning. It pulled new challenges from the game API, ran category-specific solvers, submitted the flags, and wrote up each solve and how it was done. In the final stretch of the competition I solved the challenges by hand, and those write-ups are included too.
